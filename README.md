@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @undermoonn
 - 👀 I’m interested in front-end tech
-- 🌱 I’m currently learning rxjs
+- 🌱 I’m currently learning jest
 - ⌨ I`m looking for a job
 
 <!---
