@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @undermoonn
 - 👀 I’m interested in front-end tech
-- 🌱 I’m currently learning jest
+- 🌱 I’m currently learning React
 
 <!---
 undermoonn/undermoonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
